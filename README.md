@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi everyone! My name is Julie and I'm an aspiring Software Engineer. 
+
+🎓 CS @ Wellesley 
+💻 Interests: Full-stack Development, Machine Learning, Product
+🌱 Currently learning: Firebase, Machine Learning Foundations
+💌: Let's chat: linkedin.com/in/julie-zeng-981a72233
