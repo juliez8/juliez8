@@ -1,4 +1,4 @@
-## Julie Zeng | Design Forward Software Engineer 💻
+## Julie Zeng | Design Forward Software Engineer ⌨️🍵
 
 <!--
 **juliez8/juliez8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,5 +34,5 @@ Hi everyone! My name is Julie and I'm an aspiring Software Engineer that also ha
 
 | Project | Description | Tech |
 | :------- | --------: | :------: |
-| Content A1 | Content B1 | Content C1 |
+| https://github.com/juliez8/ecornell-ML-portfolio | Implemented a neural network for sentiment analysis of positve vs. negative book reviews | Python, Scikit-learn, Tensor Flow  |
 
