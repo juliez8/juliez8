@@ -27,7 +27,7 @@ Hi everyone! My name is Julie and I'm an aspiring Software Engineer that also ha
 
 ## Technical Skills 
 
-- **Languages:** Python, Java, SQL, Javascript, HTML, CSS
+- **Languages:** Python, Java, SQL, Javascript, HTML, CSS, Swift
 - **Frameworks & Tools:** React, Node.js, Flask, Git
 
 ## Featured Projects 
