@@ -21,14 +21,14 @@ Hi everyone! My name is Julie and I'm an aspiring Software Engineer that also ha
 
 💻 Interests: Full-stack Development, Machine Learning, Product, Design
 
-🌱 Currently learning: Firebase, Machine Learning Foundations
+🌱 Currently learning: 
 
 💌: Let's chat: linkedin.com/in/julie-zeng-981a72233
 
 ## Technical Skills 
 
-- **Languages:** Python, Java, SQL, Javascript, HTML, CSS, Swift
-- **Frameworks & Tools:** React, Node.js, Flask, Git
+- **Languages:** Python, Java, Swift, JavaScript, SQL, HTML/CSS
+- **Frameworks & Tools:** PyTorch, TensorFlow, Sklearn, React, Flask, REST APIs, Git, UNIX, Figma
 
 ## Featured Projects 
 
