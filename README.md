@@ -25,9 +25,9 @@ Hi everyone! My name is Julie and I'm an aspiring Software Engineer that also ha
 
 💌: Let's chat: linkedin.com/in/julie-zeng-981a72233
 
-## Technical Skills 
+## Technologies & Skills 
 
-- **Languages:** Python, Java, Swift, JavaScript, SQL, HTML/CSS
+- **Languages:** Python, Java, SQL, HTML/CSS, JavaScript, Swift
 - **Frameworks & Tools:** PyTorch, TensorFlow, Sklearn, React, Flask, REST APIs, Git, UNIX, Figma
 
 ## Featured Projects 
