@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi everyone! My name is Julie and I'm an aspiring Software Engineer that also has an eye for design. 
+Hi everyone! My name is Julie and I'm an aspiring Software Engineer that also has an eye for design (｡•̀ᴗ-)✧ ⌨️💻 
 
 🎓 CS @ Wellesley 
 
