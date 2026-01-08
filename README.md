@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/nU1mN9NeT-0AAAAd/chiikawa-anime.gif" width="300" />
+</p>
+
+
 Hi everyone! My name is Julie and I'm an aspiring Software Engineer that also has an eye for design (｡•̀ᴗ-)✧ ⌨️💻 
 
 🎓 CS @ Wellesley 
@@ -23,7 +28,7 @@ Hi everyone! My name is Julie and I'm an aspiring Software Engineer that also ha
 
 🌱 Currently learning: 
 
-💌: Let's chat: linkedin.com/in/julie-zeng-981a72233
+💌: Let's chat: linkedin.com/in/julie-zeng
 
 ## Technologies & Skills 
 
