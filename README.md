@@ -32,8 +32,9 @@ Hi everyone! My name is Julie and I'm an aspiring Software Engineer that also ha
 
 ## Technologies & Skills 
 
-- **Languages:** Python, Java, SQL, HTML/CSS, JavaScript, Swift
-- **Frameworks & Tools:** PyTorch, TensorFlow, Sklearn, React, Flask, REST APIs, Git, UNIX, Figma
+- **Languages:** Python, Java, JavaScript, TypeScript, SQL, C, Swift, HTML/CSS
+- **Frameworks & Tools:** Flask, REST APIs, Supabase (Postgres), Next.js, React, Tailwind CSS, PyTorch, TensorFlow,
+scikit-learn, Pandas, NumPy, Git, UNIX, Vercel, Figma
 
 ## Featured Projects 
 
