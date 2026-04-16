@@ -26,19 +26,15 @@ Hi everyone! My name is Julie and I'm an aspiring Software Engineer that also ha
 
 💻 Interests: Full-stack Development, Machine Learning, Product, Design
 
-🌱 Currently learning: 
-
-💌: Let's chat: linkedin.com/in/julie-zeng
-
 ## Technologies & Skills 
 
-- **Languages:** Python, Java, JavaScript, TypeScript, SQL, C, Swift, HTML/CSS
-- **Frameworks & Tools:** Flask, REST APIs, Supabase (Postgres), Next.js, React, Tailwind CSS, PyTorch, TensorFlow,
-scikit-learn, Pandas, NumPy, Git, UNIX, Vercel, Figma
+- **Languages:** Python, Java, TypeScript, JavaScript, SQL, C  
+- **Frameworks:** React, Next.js, Flask, Tailwind CSS  
+- **ML:** PyTorch, scikit-learn, Pandas, NumPy  
+- **Tools:** Git, UNIX, Vercel  
 
-## Featured Projects 
+## Let's keep in touch and grab a matcha or viet coffee together 🍵☕️
 
-| Project | Description | Tech |
-| :------- | --------: | :------: |
-| https://github.com/juliez8/ecornell-ML-portfolio | Implemented a neural network for sentiment analysis of positve vs. negative book reviews | Python, Scikit-learn, Tensor Flow  |
+- Email: juliezeng8 [at] gmail [dot] com
+- LinkedIn: www.linkedin.com/in/julie-zeng
 
